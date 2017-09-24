@@ -1,0 +1,119 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       background-color: #93785B;
+       height: 100%;
+
+    }
+
+    header {
+        background-color: #429C40;
+        padding: 5px 50px 5px 50px;
+        border: 10px solid #043404;
+        margin: 20px 0px 0px 0px;
+        font-size: 31;
+        display: block;
+        color: #041F04;
+        text-align: center;
+    }
+    .top {
+      background-color: #429C40;
+      padding: 5px 50px 5px 50px;
+      border: 10px solid #043404;
+      margin: 30px 10px 10px 13px;
+      font-size: 31;
+      display: block;
+      color: #041F04;
+      width: 15%;
+      text-align: center;
+
+
+    }
+    h2 {
+        background-color: #429C40;
+        padding: 5px 50px 5px 50px;
+        border: 10px solid #043404;
+        margin: 0px 0px 10px 0px;
+        font-size: 31;
+        display: block;
+        text-align: center;
+        color: #041F04;
+
+    }
+    .intro {
+        font-size: 34;
+        display:inline-block;
+        text-align: justify;
+        color: #1E1917;
+        background-color: #8A6048;
+        width: 100%;
+        margin-top: -60%;
+    }
+    .info {
+        font-size: 24;
+        display:inline-block;
+        text-align: justify;
+        color: #1E1917;
+        background-color: #8A6048;
+        width: 68%;
+    }
+
+    img {
+      width: 25%;
+      border: 10px solid #694937;
+      display: inline-block;
+    }
+    nav {
+        float: left;
+        width: 100%;
+        background-color: #694937;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 100%;
+        display: inline-block;
+        float: left;
+}
+    p {
+      font-size: 34;
+      color: #1E1917;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }

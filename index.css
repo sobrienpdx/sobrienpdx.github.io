@@ -60,13 +60,22 @@ there are definitely some properties you should add!*/
         text-align: justify;
         color: #1E1917;
         background-color: #8A6048;
-        width: 68%;
+        width: 100%;
+    }
+
+    .infoleft {
+        font-size: 24;
+        display:inline-block;
+        text-align:right;
+        color: #1E1917;
+        background-color: #8A6048;
+        width: 100%;
     }
 
     img {
-      width: 25%;
+      width: 20%;
       border: 10px solid #694937;
-      display: inline-block;
+      display: inline;
     }
     nav {
         float: left;
@@ -100,12 +109,12 @@ there are definitely some properties you should add!*/
       font-size: 34;
       color: #1E1917;
     }
-    aside {
-        width: 17%;
-        display: inline-block;
-        background-color:;
-        padding:;
-        min-height: 100%;
+    /*aside {*/
+        /*width: 17%;*/
+        /*display: inline-block;*/
+        /*background-color:;*/
+        /*padding:;*/
+        /*min-height: 100%;*/
     }
     aside ul {
         list-style-type: none;
